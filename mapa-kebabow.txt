@@ -1,0 +1,9 @@
+Budżet: 30-40 h
+
+Odpowiedzialności:
+-frontend developer
+-backend developer
+-js developer
+-researcher
+-grafik
+-tester
