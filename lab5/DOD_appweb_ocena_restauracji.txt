@@ -1,0 +1,10 @@
+Definition of Done dla aplikacji webowej oceny restauracji
+
+1. Interfejs użytkownika jest intuicyjny i łatwy w obsłudze.
+2. Użytkownik może wyszukać restauracje za pomocą funkcji mapy.
+3. Aplikacja umożliwia wyświetlanie szczegółowych informacji o restauracji.
+4. Recenzje restauracji są dostępne do przeglądania.
+5. Użytkownik może dodać własną recenzję do restauracji.
+6. Strona internetowa przechodzi testy kompatybilności z różnymi przeglądarkami internetowymi.
+7. Istnieje możliwość dodawania ocen dla restauracji.
+

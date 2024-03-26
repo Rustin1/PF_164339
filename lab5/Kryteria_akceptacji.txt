@@ -1,0 +1,19 @@
+Kryteria akceptacji:
+
+Zmiana Hasła:
+1. Użytkownik wyraża chęć zmiany hasła poprzez wybór opcji "Zmień Hasło" w ustawieniach konta.
+2. Strona prezentuje panel umożliwiający zmianę hasła.
+3. Użytkownik musi podać swój aktualny login i hasło w celu potwierdzenia tożsamości.
+4. Użytkownik wprowadza nowe hasło i powtarza je dla potwierdzenia.
+5. Nowe hasło musi spełniać kryteria: minimum 8 znaków, zawierające co najmniej 1 znak specjalny i 1 literę.
+6. Użytkownik potwierdza wprowadzone nowe hasło.
+7. System dokonuje sprawdzenia poprawności hasła.
+8. Po poprawnej weryfikacji, strona wyświetla odpowiedni komunikat potwierdzający zmianę hasła.
+
+Przesyłanie Pliku na Serwer:
+1. Użytkownik pragnie przesłać plik na serwer i zauważa przycisk "Dodaj Plik" na stronie serwisu.
+2. Użytkownik naciska przycisk, co powoduje wyświetlenie informacji: "Wybierz plik z komputera lub przerzuć tutaj...".
+3. Użytkownik wybiera odpowiedni plik i przeciąga go na stronę.
+4. Strona akceptuje pliki o wielkości do maksymalnie 5MB.
+5. Po wybraniu pliku i zatwierdzeniu jego przesłania, użytkownik potwierdza tę akcję.
+6. Serwer odbiera przesłany plik i przetwarza go zgodnie z jego przeznaczeniem.
